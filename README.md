@@ -1,3 +1,8 @@
+# Smart Store
+
+Projeto de desenvolvimento seguindo as diretrizes de documentação do Angular.
+
+
 # SmartStore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
