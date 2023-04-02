@@ -1,7 +1,7 @@
 # Smart Store
 
 Projeto de desenvolvimento seguindo as diretrizes de documentação do Angular.
-
+Escrito em TypeScript, utilizando as estruturas HTML5 e estilização em SCSS.
 
 # SmartStore
 
